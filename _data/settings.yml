@@ -5,7 +5,7 @@ header_text: "Looking at the past and present of film typography. "
 footer_text: Copyright 2020 Rewind That Font
 header_feature_image: ../uploads/film-career.png
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/black-event-photographer-logo-2.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
