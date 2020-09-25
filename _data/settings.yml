@@ -1,11 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+title: Rewind That Font
+description: Rewind That Font, a blog, taking a look back at the most
+  unforgettable and iconic typography throughout the history of film.
+header_text: "Rewind That Font, looking at the past and present of film typography. "
+footer_text: Copyright 2020 Rewind That Font
+header_feature_image: ../uploads/unnamed.jpg
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
