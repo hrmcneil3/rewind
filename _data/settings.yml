@@ -6,7 +6,7 @@ footer_text: Copyright 2020 Rewind That Font
 header_feature_image: ../uploads/film-career.png
 bannerheight: 20vmax
 logo: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
-favicon: /uploads/favicon.ico
+favicon: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
 gridlayout: false
 fixednavbar: false
 upzoom: true
