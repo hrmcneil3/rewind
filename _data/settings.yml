@@ -8,5 +8,5 @@ bannerheight: 20vmax
 logo: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
 favicon: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
