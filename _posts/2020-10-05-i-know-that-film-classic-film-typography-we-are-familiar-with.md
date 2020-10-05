@@ -12,9 +12,13 @@ By analysing the films typography from an audience’s perspective, I will be co
 
 # 1. ***Star Wars***
 
-youtube video
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/DR6wrxJCjuk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 For me, this is the most culturally iconic film typography within this post. I watched Star Wars from a young age, however I never thought about the film typography that It adopts. When thinking about its simplistic design I soon realised there’s a message that has been subtly conveyed. When ARTIST was trying to create the logo, they were making it for the first film, Star Wars: A New Hope. The logo is attempting to create a feeling of animosity, telling a story of a galaxy under contention through war. This is done particularly well through its hollow logo, exposing the vastness of the galaxy. However, hope is signified through the positive yellow outline of the logo. This shows no matter how dark times can get there will always remain hope in the story of Star Wars.
+
+> * 'Sans-serif typefaces are common in this category because of sharp and perfect edges—reminiscent of lettering that a computer might render'
+>
+>   *Rafael Van Winkel, via Print*
 
 # ***2. Get Out***
 
