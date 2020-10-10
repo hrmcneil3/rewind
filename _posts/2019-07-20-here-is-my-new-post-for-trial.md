@@ -1,48 +1,58 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: The best of their time! Does the typography in IMDB’s top 3 films of
+  all-time, match the quality of its film?
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+header_feature_image: ../uploads/1200px-imdb_logo_2016.svg.png
+caption: ""
+comments: true
+tags:
+  - Cinema
+  - Culture
+  - Design
+  - Fonts
+  - Media
 ---
+All of these films are highly regarded by IMDB however, does their typography in their titles, live up to the hype the film itself creates? Does its title typography resemble and exemplify its successful story? Or does it clash, not suit its style, and generate friction?
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+***1. The Shawshank Redemption*** 
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+IMDB score – 9.2
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/S32h0-sthaI?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+The font, designed by [Paul Hickson](https://fontmeme.com/the-shawshank-redemption-font/), illustrates the story of the environment that the characters live within. The design of the font reminds the audience of the lack of liberties that the main protagonists have due to its early civilisation style. The connection between the Wade Sans Light font, early civilisation and the environment of prison, tell a story of characters being stripped of any privileges. It Immediately tells the audience that this is a tough experience for the characters.
 
-![Here is a book](../uploads/pages.jpg)
+Its movie title has okay legibility, however its weighting on its characters are light. This means the words ‘The’ and ‘Redemption’ are harder to read than the word ‘Shawshank’. This may have been done to show that the characters have the bare minimum as they are in prison. The title isn’t worthy of having heavy weight as the characters have very little diversity of activities they can complete in the environment they’re in.
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+There’s little friction as the quality of the title is consistent and it’s coherent. Its light grey colour suitably matches with the film’s environment, representing the grey landscape of prison, although the lighter tone sends a message of hope to the audience. The typography uses monospace, in particular the word ‘redemption’, this may be to exaggerate the fact that these characters will follow a journey of redemption.
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+My typography score – 7.7
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+***2. The Godfather*** 
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+IMDB score - 9.1
 
-## Here is a an image
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/c5M6L6L_ksU?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-![Wooden Type](../uploads/log.jpg)
+In comparison to *The Shawshank Redemption*, *The Godfathers* typography has more to analyse. The audience will have a much different experience, not of sympathy for the plot but fear instead. This is down to the font being clearly in your face with its bold lettering, providing good legibility.
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+Its coherence is also good, the red font and outline of a puppeteer’s hand and string send a powerful message to the audience that whoever the Godfather is, they have power, control and a lot of blood on their hands. The heavy font shows the Godfathers role is important, he has a large amount of respect and that himself and others around him will spill blood if they have to.
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+This typography suits the film well, providing uncertainty for anyone about to watch it. Its quality overall is brilliant, its order is smoothly connected, reducing friction, showing the mob that the Godfather runs is organised, especially as the lettering’s width is condensed, potentially showing the people around him are tight to him at all times.
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
+My typography score - 9.8
 
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
+3. The Dark Knight 
 
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
+IMDB score - 9.0
 
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+![](../uploads/919541765_o.jpg "Picture via Ebay")
+
+The Dark Knight is the hardest to analyse due to its simplicity. The typography itself is clearly trying to portray the message that Batman in the film is serious and dependable. The typography is balanced throughout, its contrast, width, baseline and cap height of its strong, blockish font, represent this.
+
+What you get from the commercial based Franklin Gothic Demi typography is simple and easy to read. This is however the opposite of Batman who is far from simple and easy to read, meaning there’s friction between the main protagonist and the typography. A compliment I do have for the typography is the monospaced and separated lettering, it represents Batman as an independent superhero who works alone, taking responsibility of the crime within Gotham City.
+
+Typography score – 7.4
+
+The top three films of all time have spectacular plots and cinematography however their typography doesn’t necessarily live up to the high standards that they set for themselves. In most cases, they tell a part of the story and follow their genres typographic styles, enticing an audience to watch their films. My personal favourite is The Godfather out of this list.
