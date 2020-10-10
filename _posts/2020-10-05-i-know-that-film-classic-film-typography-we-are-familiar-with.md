@@ -50,7 +50,7 @@ By using cold colours of blue, it provides an unsettling mood, generating intere
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/RvO2Eg-rUG8?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Lifting the mood a little bit with this film, Toy Story’s typography is inviting, playful and bright, appealing to a younger audience. Its typography matches its story well. The typography is imperfect with the composition of the letters at different irregular angles. The story follows the imperfections of certain characters. 
+Lifting the mood a little bit with this film, Toy Story’s typography is youthfully mischievious, playful and bright, appealing to a younger audience. Its typography matches its story well. The typography is imperfect with the composition of the letters at different irregular angles. The story follows the imperfections of certain characters. 
 
 The composition of the letters within the typography also signify that this film is light-hearted, fun and that when playing with toys things can get messy. The playful colours that are used are all primary colours. The use of yellow, red and blue are familiar to everybody, especially its main target audience, young people. Not only is the colour used to attract its audience but its size of font as well, making it very easy to read.
 
