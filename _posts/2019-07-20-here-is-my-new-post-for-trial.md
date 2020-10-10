@@ -13,11 +13,11 @@ tags:
   - Fonts
   - Media
 ---
-All of these films are highly regarded by IMDB however, does their typography in their titles, live up to the hype the film itself creates? Does its title typography resemble and exemplify its successful story? Or does it clash, not suit its style, and generate friction?
+All of these films are highly regarded by [IMDB](https://www.imdb.com) however, does their typography in their titles, live up to the hype the film itself creates? Does its title typography resemble and exemplify its successful story? Or does it clash, not suit its style, and generate friction?
 
 ***1. The Shawshank Redemption*** 
 
-IMDB score – 9.2
+[IMDB score – 9.2](https://www.imdb.com/chart/top/)
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/S32h0-sthaI?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -31,11 +31,11 @@ My typography score – 7.7
 
 ***2. The Godfather*** 
 
-IMDB score - 9.1
+[IMDB score - 9.1](https://www.imdb.com/chart/top/)
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/c5M6L6L_ksU?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In comparison to *The Shawshank Redemption*, *The Godfathers* typography has more to analyse. The audience will have a much different experience, not of sympathy for the plot but fear instead. This is down to the font being clearly in your face with its bold lettering, providing good legibility.
+In comparison to *[The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)*, *[The Godfathers](https://www.imdb.com/title/tt0068646/)* typography has more to analyse. The audience will have a much different experience, not of sympathy for the plot but fear instead. This is down to the font being clearly in your face with its bold lettering, providing good legibility.
 
 Its coherence is also good, the red font and outline of a puppeteer’s hand and string send a powerful message to the audience that whoever the Godfather is, they have power, control and a lot of blood on their hands. The heavy font shows the Godfathers role is important, he has a large amount of respect and that himself and others around him will spill blood if they have to.
 
@@ -43,13 +43,13 @@ This typography suits the film well, providing uncertainty for anyone about to w
 
 My typography score - 9.8
 
-3. The Dark Knight 
+***3. The Dark Knight*** 
 
-IMDB score - 9.0
+[IMDB score - 9.0](https://www.imdb.com/chart/top/)
 
 ![](../uploads/919541765_o.jpg "Picture via Ebay")
 
-The Dark Knight is the hardest to analyse due to its simplicity. The typography itself is clearly trying to portray the message that Batman in the film is serious and dependable. The typography is balanced throughout, its contrast, width, baseline and cap height of its strong, blockish font, represent this.
+[The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight_(film)) is the hardest to analyse due to its simplicity. The typography itself is clearly trying to portray the message that Batman in the film is serious and dependable. The typography is balanced throughout, its contrast, width, baseline and cap height of its strong, blockish font, represent this.
 
 What you get from the commercial based Franklin Gothic Demi typography is simple and easy to read. This is however the opposite of Batman who is far from simple and easy to read, meaning there’s friction between the main protagonist and the typography. A compliment I do have for the typography is the monospaced and separated lettering, it represents Batman as an independent superhero who works alone, taking responsibility of the crime within Gotham City.
 
