@@ -7,7 +7,7 @@ header_feature_image: ../uploads/film-career.png
 bannerheight: 40vmax
 logo: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
 favicon: ../uploads/ec07f973-6231-472e-9621-0678c778ce5e_4_5005_c.jpeg
-gridlayout: true
+gridlayout: false
 fixednavbar: true
 upzoom: true
 items:
