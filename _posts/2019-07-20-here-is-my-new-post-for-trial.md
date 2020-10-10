@@ -51,6 +51,8 @@ My typography score - 9.8
 
 [The Dark Knight](https://en.wikipedia.org/wiki/The_Dark_Knight_(film)) is the hardest to analyse due to its simplicity. The typography itself is clearly trying to portray the message that Batman in the film is serious and dependable. The typography is balanced throughout, its contrast, width, baseline and cap height of its strong, blockish font, represent this.
 
+On[ Print's](https://www.printmag.com/post/typography-movie-poster-design) website they elaborate on my point, *Rafael Van Winkel,* the writer of the blog, says *'Superhero movie posters feature bold, thick typefaces that reflect the heroes’ strength. - Posters for classic well-known heroes such as Superman and Batman tend to stay away from this rule and go for something more simplistic and elegant.'*
+
 What you get from the commercial based Franklin Gothic Demi typography is simple and easy to read. This is however the opposite of Batman who is far from simple and easy to read, meaning there’s friction between the main protagonist and the typography. A compliment I do have for the typography is the monospaced and separated lettering, it represents Batman as an independent superhero who works alone, taking responsibility of the crime within Gotham City.
 
 Typography score – 7.4
