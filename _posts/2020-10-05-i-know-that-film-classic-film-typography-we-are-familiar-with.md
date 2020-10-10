@@ -30,7 +30,7 @@ When [Suzy Rice](https://suzyrice.com/the-star-wars-logo-design-page-one-of-two/
 
 ***2. Get Out***
 
-![Image via https://www.uphe.com/movies/get-out](../uploads/getout_posterart.jpg "Image via https://www.uphe.com/movies/get-out")
+![Image via https://www.uphe.com/movies/get-out](../uploads/getout_posterart-2.jpg "Image via https://www.uphe.com/movies/get-out")
 
 *[Get Out](https://www.imdb.com/title/tt5052448/)* was a great cinematic experience for me, it was intense and courageous, just like its typography. It’s simplistic and bold, it’s in your face and difficult to ignore as it emphasises the importance that the main protagonist needs to simply get out the situation he is about to get into. 
 
@@ -40,7 +40,7 @@ The other message Get Out sends is a warning that getting out won’t be as simp
 
 ***3. Dunkirk*** 
 
-![Image via https://fontmeme.com/dunkirk-film-font/](../uploads/dunkirk-poster-font.jpg "Image via https://fontmeme.com/dunkirk-film-font/")
+![Image via https://fontmeme.com/dunkirk-film-font/](../uploads/mv5bn2yyzjq0ntetnzu5ms00ngzkltg0mtetyzjmmwy3mwrhzjm2xkeyxkfqcgdeqxvymda4nzmyoa-._v1_.jpg "Image via https://fontmeme.com/dunkirk-film-font/")
 
 [Dunkirk](https://en.wikipedia.org/wiki/Dunkirk_(2017_film)) will keep you on the edge of your seat, providing with you relentless and nail-biting action. Its typographic choices give its potential audience a great insight into what the tough environment of Dunkirk was like. Its movie title is cold and strong, using harsh imagery of the intense English Channel, providing a sense of what this film is like.
 
