@@ -4,7 +4,7 @@ title: About
 subtitle: "What is Rewind That Font? "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/rewind-that-font.png
+header_feature_image: ../uploads/film-career.png
 published: true
 tags: null
 description: null
