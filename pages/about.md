@@ -16,13 +16,13 @@ show: true
 
 My rationale behind the logo was to create a contrast between a black background and the bright colour of yellow, expressing the fact that *Rewind That Font* explores typography from a black and white era of film where it all began, to a modern era. The arrows pointing in both directions are to show that I will be taking a look back and forwards in time when studying film typography. It is also to represent the word rewind in my website title. 
 
-The 1930's style of font, communicates a vintage tone in comparison to the blockish style of the arrows, they create a contrast of a modern style. This is to show that Rewind That Font explores modern film typography as well as historical and more traditional typography.
+The 1930's style of font, communicates a vintage tone in comparison to the blockish style of the arrows, they create a contrast of a modern style. This is to show that *Rewind That Font* explores modern film typography as well as historical and more traditional typography.
 
-The font is a signifier of vintage cinema and the beginning of colour film. It is a sophisticated font to suit the sophisticated responses and analysis to the film typography that I will be writing about. I have made it easy to read and yellow, to express the importance of colour in studying film typography. I have also used yellow as a signifier that Rewind That Font is like a lightbulb, a website publication full of ideas.
+The font is a signifier of vintage cinema and the beginning of colour film. It is a sophisticated font to suit the sophisticated responses and analysis to the film typography that I will be writing about. I have made it easy to read and yellow, to express the importance of colour in studying film typography. I have also used yellow as a signifier that *Rewind That Font* is like a lightbulb, a website publication full of ideas.
 
 ![](../uploads/logo-draft.png)
 
-Alongside Rewind That Font, myself and others on our course have our own publication, Exist News. My reason for starting Exist was to focus on my writing, design skills, and communication, while working in a team, to create something respected and consistent. Applying what we learn from our course, I believe we can create something that we can all be proud of in the near future.
+Alongside *Rewind That Font*, myself and others on our course have our own publication, [Exist News](https://existnewsmedia.wordpress.com). My reason for starting Exist was to focus on my writing, design skills, and communication, while working in a team, to create something respected and consistent. Applying what we learn from our course, I believe we can create something that we can all be proud of in the near future.
 
 ![](../uploads/88dfe386-63b6-4571-9039-de98e1df795c.jpeg)
 
