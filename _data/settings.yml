@@ -16,4 +16,4 @@ items:
     tab: true
   - name: About Me
     tab: true
-    siteurl: /aboutme
+    siteurl: file:///Users/harrymcneil/Documents/project%20folder/rewind-master/aboutme/index.html
