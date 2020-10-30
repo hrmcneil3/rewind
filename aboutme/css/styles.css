@@ -1,7 +1,111 @@
+* {
+margin: 10px;
+}
+
 body {
+margin: 20px 30px;
+text-align: center;
+font-family: "Helvetica", "arial", "sans-serif"
+fon-weight: 400;
+}
+
+main {
+border:4px solid yellow;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+background-color:rgba(10, 10, 2, 0.76);
+font-size: 30px;
+color: rgb(219, 255, 0);
+margin:20px auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+text-align: center;
+font-family: Helvetica;
+}
+
+.gallery {
+align-items: center;
+}
+
+.logo{
 
 }
 
+.rewindthatfont {
+align-items: center;
+font-family: Helvetica;
+}
+
+.rewindthatfont2 {
+align-items:
+font-family: Helvetica;
+}
+
+"font-size:10vw"
+
+"Myself at a tapas restaurant"
+
+"This is me on a clearly lovely day at Durdle Door, Dorset."
+
+"social_icon"
+"social_icon"
+
+"Oxford Brookes University"
+
+/* header */
+.header {
+padding: 10px;
+color:rgb(236, 245, 239)
+}
+
+/* header_2 */
+.header_2 {
+background-color: rgb(235, 255, 0);
+padding: 10px;
+}
+
+.rewindthatfont {
+	font-family: "Arial";
+	color: yellow;
+	font-size: 50px;
+}
+
 h1 {
-  
+color:yellow;
+text-align:left;
+}
+
+h2 {
+color:yellow;
+text-align:left;
+}
+
+}
+.info {
+border: 1px solid yellow;
+margin-bottom: 12px;
+padding-left: 20px;
+padding-right: 20px;
+flex-basis: 300px;
+margin-left: 20px;
+color: yellow
+text-align:left;
+}
+
+.info img {
+width: 100%;
+text-align: left;
+}
+
+.gallery img{
+width 100%
+}
+
+
+.info {
+flex-basis:400px;
+margin:0 10px;
+text-align: left;
 }
