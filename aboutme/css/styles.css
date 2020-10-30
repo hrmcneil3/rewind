@@ -45,13 +45,21 @@ font-family: Helvetica;
 
 "font-size:10vw"
 
-"Myself at a tapas restaurant"
+.Myself
 
 "This is me on a clearly lovely day at Durdle Door, Dorset."
 
-"social_icon"
-"social_icon"
-
+.social_icon {
+color:rgb(7, 220, 249)
+size: 10px;
+width: 10px;
+align-content: center;
+}
+.social_icon2 {
+size: 10px;
+width: 10px;
+align-content: center;
+}
 "Oxford Brookes University"
 
 /* header */
