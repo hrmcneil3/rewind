@@ -14,3 +14,6 @@ items:
   - name: "Exist "
     siteurl: https://existnewsmedia.wordpress.com
     tab: true
+  - name: About Me
+    tab: true
+    siteurl: /aboutme
