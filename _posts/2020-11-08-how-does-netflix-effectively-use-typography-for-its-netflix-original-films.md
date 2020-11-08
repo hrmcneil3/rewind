@@ -18,11 +18,9 @@ This is very accessible to everyone, due to its tendency to use bold constructio
 
 Netflix are selling an emotion and a story, evoking the emotion of relaxation amongst its consumers and potential future customers that Netflix is a place where you can relax and keep life simple. In fact, Netflix even have their own custom website design font: Netflix Sans.
 
- 
-
 ![](../uploads/netflix_english-5baff18e4cedfd0026d27d78-3a224b5938464fe6a6299f8fe4945a5b.jpg "The home page of Netflix")
 
-# White?! It's always on your side.
+## White?! It's on your side.
 
 A theme I noticed that ran throughout Netflix Original films was its colour choice for its typography. It uses the very neutral colour of white in 34 out of 40 of its original films that it promotes on its home interface. This it to make it stand out in comparison to its usually expressive illustrations and photo backdrops to present the film to its audience.
 
@@ -30,7 +28,7 @@ The use of the colour white also doesn’t deter any untapped audiences from wat
 
 ![](../uploads/1563660059_893312689.png)
 
-# I'm only here for the font.
+### I'm only here for the font. 
 
 The legibility of Netflix’s font is consistently the same, people know its Netflix and are comfortable and familiar with it, it keeps on attracting people, especially those who like familiarity. Those who are comfortable with a simple white and bold piece of typography to tell them which film they want to access. The legibility is also very clear and has quality, reaching its film audience easier due to its bold and white fonts. 
 
