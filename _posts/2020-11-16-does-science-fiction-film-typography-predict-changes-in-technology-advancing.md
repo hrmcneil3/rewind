@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Does science-fiction film typography predict changes in technology
-  advancing ? "
+title: "Does science-fiction film typography, predict changes in technological
+  advancements ? "
 date: 2020-11-15T20:27:35.344Z
 header_feature_image: ../uploads/gravity_banner.jpg
 comments: true
