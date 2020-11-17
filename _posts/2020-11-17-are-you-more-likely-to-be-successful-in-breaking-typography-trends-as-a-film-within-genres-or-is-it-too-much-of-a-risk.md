@@ -6,15 +6,19 @@ date: 2020-11-17T00:48:59.117Z
 header_feature_image: ../uploads/font-psychology-18.png
 comments: true
 ---
-If some of the most successful films owned radically different fonts, they would not have been part of the most successful films list. The entire story, character and emotion are told through the fonts legibility to the genre. For a kid’s film to come across scary, based on its font, it would be a disaster for the promotion of the film. 
+If some of the most successful films owned radically different fonts, they would not have been regrded as one of the most successful films. The entire story, character and emotion, are told through the fonts legibility to the genre. For a kid’s film to come across scary, based on its font, it would be a disaster for the promotion of the film for example.
 
 ***A delicate balancing act*** 
 
-Throughout the design process, creators and designers must try use their skills to target the audience of the genre the film is in. By achieving this, they will be able to make people understand what genre it is. Should they all try to achieve the same thing, there is a delicate balance between making people understand what story your film will follow and standing out from the many other films like yours.
+Throughout the design process, creators and designers try to use their skills, targeting the audience of the genre the film sits under. By achieving this, they will be able to make people understand what genre it is. Should they all try to achieve the same thing, there is a delicate balance between making people understand what story your film will follow and standing out from the many other films like yours.
 
 There’s certainly an argument as to whether it’s a good idea to sacrifice creativity to make sure you are accessing your target audience or to take a risk, to expand your audience. To achieve both, you are probably likely to get a bonus. Typography is very emotionally sensitive to whoever is reading it, if you take your creativity too far, the story, emotion and character you are trying to convey may come across the wrong way.  
 
+![](../uploads/papyrus-font-avatar.jpg)
+
 ***Big, bold and definitely a comedy...***
+
+
 
 Comedy is a great example of how this works. Comedy fonts usually come across as playful and light-hearted due to their simple design. They use a big and bold design, to make it in your face, grabbing your attention through it. They use simplistic designs such as arial and Helvetica, showing that this comedy is just about ordinary people usually, nothing fancy.
 
