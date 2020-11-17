@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Are you more likely to be successful in breaking typography trends as a
-  film within genres or is it too much of a risk? "
+title: "Are you more likely to be successful in breaking typography trends for a
+  film or is it too much of a risk? "
 date: 2020-11-17T00:48:59.117Z
 header_feature_image: ../uploads/font-psychology-18.png
 comments: true
