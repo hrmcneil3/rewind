@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Are you more likely to be successful in breaking typography trends as a
-  film within genres or is it too much of a risk? "
+title: "Are you more likely to be successful in breaking typography trends for a
+  film or is it too much of a risk? "
 date: 2020-11-17T00:48:59.117Z
 header_feature_image: ../uploads/font-psychology-18.png
 comments: true
@@ -37,5 +37,7 @@ A genre which makes its typography choices even more valuable is horror. The sty
 ![](../uploads/chocolat-poster.jpg)
 
 The last genre I will explore that expresses why it is good to follow genre trends is romance. The weight of the font is usually light to create more of a feminine feel to the film, unless it’s a romantic comedy. The fonts used are usually associated with romantic handwriting. If the font was sharp and jagged it wouldn't be welcoming and delicate, if it was bold and in your face it wouldn't feel like love, something which is usually associated with subtleness and care. 
+
+***Conclusion***
 
 Now, can you imagine breaking these trends for the genres? would you watch the films? Would you recognise the film? There is plenty of reasoning as to why typography trends exist, they are tried, tested and produce significant economic advantages, taking the risk of swaying from this, is too much of an economic risk for a production company.
