@@ -32,8 +32,10 @@ This appeals to a lot more people as most people can relate to the story. The st
 
 A genre which makes its typography choices even more valuable is horror. The styles of horror fonts are usually edged and rough to never make you feel like there is any form of comfort in the film. The fonts are designed to make you feel uneasy, they usually have a irregular layout of their font to make you feel like nothing is normal in this film, giving you a sense of fearing the unknown. 
 
+***I LOVE YOU!!!!***
 
+![](../uploads/chocolat-poster.jpg)
 
 The last genre I will explore that expresses why it is good to follow genre trends is romance. The weight of the font is usually light to create more of a feminine feel to the film, unless it’s a romantic comedy. The fonts used are usually associated with romantic handwriting. If the font was sharp and jagged it wouldn't be welcoming and delicate, if it was bold and in your face it wouldn't feel like love, something which is usually associated with subtleness and care. 
 
-Now can you imagine breaking these trends for the genres, would you watch the films? Would you recognise the film? There are lots of reasoning as to why typography trends exist, they are tried, tested and produce significant economic advantages, taking the risk of swaying from this, is too much of an economic risk for a production company.
+Now, can you imagine breaking these trends for the genres? would you watch the films? Would you recognise the film? There is plenty of reasoning as to why typography trends exist, they are tried, tested and produce significant economic advantages, taking the risk of swaying from this, is too much of an economic risk for a production company.
