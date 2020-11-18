@@ -5,8 +5,7 @@ title: "Are you more likely to be successful in breaking typography trends for a
 date: 2020-11-17T00:48:59.117Z
 header_feature_image: ../uploads/font-psychology-18.png
 comments: true
-tags:
-  - Architecture
+tags: null
 ---
 If some of the most successful films owned radically different fonts, they would not have been regrded as one of the most successful films. The entire story, character and emotion, are told through the fonts legibility to the genre. For a kid’s film to come across scary, based on its font, it would be a disaster for the promotion of the film for example.
 
@@ -14,7 +13,7 @@ If some of the most successful films owned radically different fonts, they would
 
 Throughout the design process, creators and designers try to use their skills, targeting the audience of the genre the film sits under. By achieving this, they will be able to make people understand what genre it is. Should they all try to achieve the same thing, there is a delicate balance between making people understand what story your film will follow and standing out from the many other films like yours.
 
-There’s certainly an argument as to whether it’s a good idea to sacrifice creativity to make sure you are accessing your target audience or to take a risk, to expand your audience. To achieve both, you are probably likely to get a bonus. Typography is very emotionally sensitive to whoever is reading it, if you take your creativity too far, the story, emotion and character you are trying to convey may come across the wrong way.  
+There’s certainly an argument as to whether it’s a good idea to sacrifice creativity to make sure you are accessing your target audience or to take a risk, to expand your audience. To achieve both, you are probably likely to get a bonus. Typography is very emotionally sensitive to whoever is reading it, if you take your creativity too far, the story, emotion and character you are trying to convey, may come across the wrong way.  
 
 ![](../uploads/papyrus-font-avatar.jpg)
 
@@ -30,7 +29,7 @@ This appeals to a lot more people as most people can relate to the story. The st
 
 ![](../uploads/81mfitrzsfl._ac_sy679_.jpg)
 
-A genre which makes its typography choices even more valuable is horror. The styles of horror fonts are usually edged and rough to never make you feel like there is any form of comfort in the film. The fonts are designed to make you feel uneasy, they usually have a irregular layout of their font to make you feel like nothing is normal in this film, giving you a sense of fearing the unknown. 
+A genre which makes its typography choices even more valuable is horror. The styles of horror fonts are usually edged and rough to never make you feel like there is any form of comfort in the film. The fonts are designed to make you feel uneasy, with them usually having an irregular layout of their font, making you feel like nothing is normal in this film and giving you a sense of fearing the unknown. 
 
 ***I LOVE YOU!!!!***
 
@@ -40,4 +39,4 @@ The last genre I will explore that expresses why it is good to follow genre tren
 
 ***Conclusion***
 
-Now, can you imagine breaking these trends for the genres? would you watch the films? Would you recognise the film? There is plenty of reasoning as to why typography trends exist, they are tried, tested and produce significant economic advantages, taking the risk of swaying from this, is too much of an economic risk for a production company.
+Now, can you imagine breaking these trends for the genres? would you watch the films? Would you recognise the film? There is plenty of reasoning as to why typography trends exist, they are tried, tested and produce significant economic advantages. Taking the risk of swaying from this, is too much of an economic risk for a film production company.
