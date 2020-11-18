@@ -6,11 +6,11 @@ date: 2020-11-15T20:27:35.344Z
 header_feature_image: ../uploads/gravity_banner.jpg
 comments: true
 ---
-Science fiction films truly are based on the depths of our imaginations, they predict the future of the human race, some predictions have been right, some haven’t. How has science fiction fonts, changed as technology has advanced? What did people think the future would look like based on the design of their film fonts? 
+Science fiction films truly are based on the depths of our imaginations, they predict the future of the human race, some predictions have been right, some haven’t. How have science fiction fonts changed as technology has advanced? What did people think the future would look like based on the design of their film fonts? 
 
  ***Do science fiction fonts predict the future of technology or show us what we already have?***
 
-Throughout the history of film, we have been able to see the bond between the art of filmmaking, graphic design and visual culture as a whole. With science fiction fonts, we have arguably been able to understand what the film is predicting the future of society could potentially look like. Its colour, typographic style, and composition illustrate this, giving it story and character to generate interest.  
+Throughout the history of film, we have been able to see the bond between the art of filmmaking, graphic design and visual culture as a whole. With science fiction fonts, we have arguably been able to understand what the film is predicting the future of society and what it could potentially be like. Its colour, typographic style, and composition illustrate this, giving it story and character to generate interest.  
 
 ![](../uploads/what-is-coding-1024x683.jpg)
 
