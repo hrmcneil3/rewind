@@ -21,7 +21,7 @@ There is always a debate over whether to stick with what works or to experiment 
 
 For a superhero film to be successful, people need to recognise it. If it doesn’t look like a superhero film, they will not view the film the same, even with familiar superheroes the audience may subtly not want to watch the film, due to an unfamiliarity of the font to the genre. Not only does it need to match its genre, it also needs to match its character well, superhero movie fonts have bold features and thick typefaces, reflecting the hero’s strength. 
 
-The legibility is good as they have made it easy to read and attractive to their audience. The designers create the title based off the superhero’s abilities, if they are a slimmer, more agile superhero, such as spider-man, then the font will follow suit. This gives the audience a general idea of who the character is as a person and gives an idea of the theme. 
+The legibility is good as they have made it easy to read and attractive to their audience. The designers create the title based off the superhero’s abilities, if they are a slimmer, more agile superhero, such as [Spider-Man](https://en.wikipedia.org/wiki/Spider-Man), then the font will follow suit. This gives the audience a general idea of who the character is as a person and gives an idea of the theme. 
 
 ![](../uploads/spider-man-poster.jpg)
 
@@ -29,6 +29,6 @@ You may be thinking, well, surely this doesn’t only resonate with the genre of
 
 ![](../uploads/image1.jpg)
 
-An obvious company that achieves the right balance is Marvel studios, who are one of the idols of superhero films. They make their fonts attractive and bold to look at, broadening their horizons of audiences by making it easy to understand what the superhero characters are based around. They are well made, none of them are a mismatch. 
+An obvious company that achieves the right balance is [Marvel studios](https://www.marvel.com), who are one of the idols of superhero films. They make their fonts attractive and bold to look at, broadening their horizons of audiences by making it easy to understand what the superhero characters are based around. They are well made, none of them are a mismatch. 
 
-More classic and well-known heroes such as Superman and Batman will usually require less expression in their fonts due to the familiarity of the two in popular culture. The typographic designers usually go for more simplistic and elegant styles, emphasising the importance of the superheroes and the respect they have from their audience.
+More classic and well-known heroes such as [Superman](https://en.wikipedia.org/wiki/Superman) and [Batman](https://en.wikipedia.org/wiki/Batman) will usually require less expression in their fonts due to the familiarity of the two in popular culture. The typographic designers usually go for more simplistic and elegant styles, emphasising the importance of the superheroes and the respect they have from their audience.
