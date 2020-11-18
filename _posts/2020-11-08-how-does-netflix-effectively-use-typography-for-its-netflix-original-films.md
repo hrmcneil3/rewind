@@ -18,7 +18,7 @@ This is massively important to the Netflix interface and for all of the films on
 
 This is very accessible to everyone, due to its tendency to use bold construction of headline fonts, making it easy to read and subtly grabbing your attention at the same time. The Netflix logo is a great example of easy accessibility for its audience, its logo/font is easy to read, selling Netflix as a company where you can relax and find something to watch with little effort. The curve in the logo is slouched almost like a hammock, signifying relaxation.
 
-Netflix are selling an emotion and a story, evoking the emotion of relaxation amongst its consumers and potential future customers that Netflix is a place where you can relax and keep life simple. In fact, Netflix even have their own custom website design font: Netflix Sans.
+Netflix are selling an emotion and a story, evoking the emotion of relaxation amongst its consumers and potential future customers that Netflix is a place where you can relax and keep life simple. In fact, Netflix even have their own [custom website design font: Netflix Sans.](https://thenextweb.com/tech/2018/03/21/netflixs-sleek-new-typeface-will-save-ton-money/)
 
 ![](../uploads/netflix_english-5baff18e4cedfd0026d27d78-3a224b5938464fe6a6299f8fe4945a5b.jpg "The home page of Netflix")
 
