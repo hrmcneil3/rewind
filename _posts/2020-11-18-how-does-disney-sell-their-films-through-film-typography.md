@@ -2,7 +2,7 @@
 layout: post
 title: How does Disney sell their films through film typography?
 date: 2020-11-18T17:58:35.080Z
-header_feature_image: ../uploads/latest-one-day-at-disney-installment-prompts-our-team-to-discuss-their-favorite-disney-film-posters-400x250.png
+header_feature_image: ../uploads/pixar_3502-5_mount_1024x1024.jpg
 comments: true
 ---
 The typography from Disney films were the first film font designs I was ever exposed to, although I wouldn’t have thought about the design choices, the design choices would have thought about me. Although I wouldn’t have thought about it, my developing brain subconsciously would have done. 
