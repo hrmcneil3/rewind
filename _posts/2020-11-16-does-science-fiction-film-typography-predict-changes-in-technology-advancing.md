@@ -34,6 +34,8 @@ One that does follow the design trends for its genre is [*Back To The Future*(19
 
 ***Modern day fonts, showing the future? Or the present?*** 
 
+![](../uploads/gravity-movie-poster.jpg)
+
 The last fonts are [*Ex Machina*(2014)](https://en.wikipedia.org/wiki/Ex_Machina_(film)) and [*Gravity*(2013)](https://en.wikipedia.org/wiki/Gravity_(2013_film)). Both films have very simplistic fonts, sending a message that the future will be simpler to live within, due to technology. Little effort has gone into the fonts, they are smooth, simple and efficient. The fonts work with the genre of film, the legibility is good with the genre. It generates the correct interest as the design is much slicker and advanced in its design than the previous exampled. 
 
 They create little friction as with modern technology, it is easier to create a film title that has great coherence, quality and order, to match the film genre perfectly. This shows that although science fiction fonts may be able to create some sort of prediction, of what technology will be like. Its probably more likely that they are just design, based on existing technology, instead of a prediction.
