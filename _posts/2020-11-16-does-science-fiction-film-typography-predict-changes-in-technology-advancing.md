@@ -3,7 +3,7 @@ layout: post
 title: "Does science-fiction film typography, predict changes in technological
   advancements ? "
 date: 2020-11-15T20:27:35.344Z
-header_feature_image: ../uploads/gravity-movie-poster.jpg
+header_feature_image: ../uploads/gravity_banner.jpg
 comments: true
 ---
 Science fiction films truly are based on the depths of our imaginations, they predict the future of the human race, some predictions have been right, some haven’t. How has science fiction fonts, changed as technology has advanced? What did people think the future would look like based on the design of their film fonts? 
