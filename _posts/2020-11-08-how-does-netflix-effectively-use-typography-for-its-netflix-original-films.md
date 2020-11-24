@@ -10,7 +10,7 @@ Since 2012, Netflix has disrupted cinema and television more and more over time,
 
 ***Picking the film based on the font? Surely not?!***
 
-![](../uploads/netflix-and-chill-alone-1.jpg)
+![](../uploads/david-balev-ilwdw2lsozk-unsplash.jpg)
 
 Netflix’s font styles help express the feeling to a [Netflix original film](https://en.wikipedia.org/wiki/Lists_of_Netflix_original_films). They use a variety of different styles of fonts to express what sort of theme and genre they are trying to promote and what mood and atmosphere they would like to convey. The different styles of fonts range from decorative fonts to modern fonts, to achieve different themes such as fun and quirky to efficient and forward-thinking.
 
