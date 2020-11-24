@@ -7,7 +7,7 @@ header_feature_image: ../uploads/font-psychology-18.png
 comments: true
 tags: null
 ---
-If some of the most successful films owned radically different fonts, they would not have been regrded as one of the most successful films. The entire story, character and emotion, are told through the fonts legibility to the genre. For a kid’s film to come across scary, based on its font, it would be a disaster for the promotion of the film for example.
+If some of the most successful films owned radically different fonts, they would not have been regarded as one of the most successful films. The entire story, character and emotion, are told through the fonts legibility to the genre. For a kid’s film to come across scary, based on its font, it would be a disaster for the promotion of the film for example.
 
 ***A delicate balancing act*** 
 
